@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patriksmitro
-- 👀 I’m interested in anime bitches
+- 👀 I’m interested in 
 - 🌱 I’m currently learning HTML,CSS,JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
